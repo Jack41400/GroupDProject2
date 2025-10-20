@@ -5,3 +5,4 @@ This is the CAN currency conversion application.
 - Jack Phillips
 - Sewon Ra
 - Kara Morgan
+- weldezgi fisshaye
